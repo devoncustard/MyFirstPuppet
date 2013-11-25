@@ -1,6 +1,6 @@
 production:    
-database: dashboard
-username: dashboard
-password: secret_password
-encoding: utf8
-adapter: mysql
+  database: dashboard
+  username: dashboard
+  password: secret_password
+  encoding: utf8
+  adapter: mysql
